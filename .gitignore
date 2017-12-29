@@ -1,0 +1,3 @@
+model.*
+checkpoint
+.ipynb_checkpoints/
