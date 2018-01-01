@@ -1,3 +1,4 @@
 model.*
 checkpoint
 .ipynb_checkpoints/
+spikes.*
